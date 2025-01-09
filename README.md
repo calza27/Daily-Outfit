@@ -19,10 +19,10 @@ An API Gateway will front up Lambda functions written in golang. User metadata, 
 
 ## Supporting Repositories
 
-Android Application
+[Android Application](https://github.com/calza27/DO-Android)
 
-Apple Application
+[Apple Application](https://github.com/calza27/DO-Apple)
 
-Supporting Infrastructure (S3, DynamoDb, Cognito)
+[Supporting Infrastructure (S3, DynamoDb, Cognito)](https://github.com/calza27/DO-Infra)
 
-API and Lambdas
+[API and Lambdas](https://github.com/calza27/DO-API)
